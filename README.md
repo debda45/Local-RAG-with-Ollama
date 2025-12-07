@@ -42,3 +42,17 @@ ollama pull llama3.2
    python3 -m venv venv
    source venv/bin/activate
    ```
+3. **Install dependencies:**
+   ```bash
+      pip install -r requirements.txt
+   ```
+##  Usage
+
+1. **Start Ollama:**
+   Ensure the Ollama application is running in the background (look for the icon in your menu bar).
+
+2. **Run the application:**
+   To use the Llama 3.2 model, set the environment variable and start the server:
+   ```bash
+   export OLLAMA_MODEL=llama3.2
+   reflex run
