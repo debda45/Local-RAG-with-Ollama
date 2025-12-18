@@ -11,11 +11,11 @@ This application allows you to chat with your documents using the power of the *
 
 ##  Features
 
-- ** Modern Interface:** A clean, dark-mode chat interface built with Reflex.
-- ** 100% Local:** Runs entirely on your machine using Ollama—no data leaves your device.
-- ** Llama 3.2 Powered:** Leverages Meta's latest lightweight model for fast, accurate reasoning.
-- ** RAG Architecture:** Retrieves relevant context using FAISS vector search for factual answers.
-- ** Extensible:** Built on LangChain, making it easy to swap models or datasets.
+- **Modern Interface:** A clean, dark-mode chat interface built with Reflex.
+- **100% Local:** Runs entirely on your machine using Ollama—no data leaves your device.
+- **Llama 3.2 Powered:** Leverages Meta's latest lightweight model for fast, accurate reasoning.
+- **RAG Architecture:** Retrieves relevant context using FAISS vector search for factual answers.
+- **Extensible:** Built on LangChain, making it easy to swap models or datasets.
 
 ## Prerequisites
 
